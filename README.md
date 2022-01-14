@@ -20,7 +20,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live Preview
 
-[Demo Link](https://maim.cf/land/motivation/)
-[My Website](https://maim.cf/)
+#### [Demo Link](https://maim.cf/land/motivation/)
+#### [My Website](https://maim.cf/)
 
 
