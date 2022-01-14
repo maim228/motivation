@@ -1,0 +1,18 @@
+.card{
+    background: #064663 !important;
+    transition: 0.4s;
+}
+.card a{
+    padding: 12px 18px;
+    color: black;
+    background: #F0A507;
+    border-radius: 8px;
+    margin-top: 10px;
+    transition: 0.4s;
+}
+.card a:hover{
+    background: #a77305;
+}
+.card-text{
+    margin-bottom: 3rem !important;
+}

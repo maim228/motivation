@@ -1,0 +1,19 @@
+.happy textarea{
+    outline: 0;
+    border: 0;
+    width: 60%;
+    margin: 24px auto;
+}
+.happy h1{
+    color: #ECB365;
+}
+.happy h6{
+    margin: 25px auto;
+    color: #be9151;
+}
+
+@media only screen and (max-width:865px){
+    .happy textarea{
+      width:90%
+    }
+  }
